@@ -1,3 +1,3 @@
 # ScrollmindsPFC
 
-[![Logo]((https://github.com/alvaro05p/ScrollmindsPFC/blob/main/scrollMinds/public_html/img/scrollminds.jpeg))](https://github.com/alvaro05p/ScrollmindsPFC/blob/main/scrollMinds/public_html/img/scrollminds.jpeg)
+![Scrollminds](https://raw.githubusercontent.com/alvaro05p/ScrollmindsPFC/main/scrollMinds/public_html/img/scrollminds.jpeg)
